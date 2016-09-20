@@ -2,4 +2,4 @@
 
 ## Demo 1 -- SIMPLEST POSSIBLE COMPONENT (STATIC)
 
-[** Link to Plunker Version**](http://plnkr.co/edit/fxro1U998yajzgCRpdkP?p=preview)
+[** Open Plunker Version**](http://plnkr.co/edit/fxro1U998yajzgCRpdkP?p=preview target="_blank")
